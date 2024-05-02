@@ -23,7 +23,7 @@ This project is a clone of the user interface (UI) of the popular music streamin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/spotify-clone.git
+git clone https://github.com/Girwar-Sahu/spotify-clone.git
 ```
 2. Open the `index.html` file in your web browser to view the UI of the Spotify clone website.
 
