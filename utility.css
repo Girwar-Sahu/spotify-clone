@@ -1,0 +1,23 @@
+.invert{
+   filter: invert(1);
+}
+.img-size{
+   height: 24px;
+   /* width: 24px; */
+}
+.img-size-2{
+   height: 16px;  
+   width: 16px;
+}
+
+.img-size-3{
+   height: 18px;
+   width: 18px;
+}
+.flex{
+   display: flex;
+}
+
+.gap{
+   gap: 20px;
+}
